@@ -115,7 +115,7 @@ nav li:hover::after{
 .part_1{
     width: 100%;
     height: 722px;
-    background: url('../images/bg01.jpg');
+    background: url('../images/background.png');
     background-size:cover;
     background-repeat: no-repeat;
     background-attachment:fixed;
@@ -252,7 +252,7 @@ nav li:hover::after{
 /* 页脚 */
 footer{
     width: 100%;
-    background: url('../images/bg01.jpg');
+    background: url('../images/background.png');
     background-size:cover;
     background-repeat: no-repeat;
     background-attachment:fixed;
